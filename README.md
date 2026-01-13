@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm Voiris
+
+I'm a programmer passionate about Python, Rust, and building things that are fun.  
+
+## About Me
+- 💻 Enthusiast of Backend and Systems Development
+- 🐍 Python | 🦀 Rust
+- 🌱 Always learning new things
+- 😄 Big fan of coding
 
 <!--
 **Voiris/Voiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
